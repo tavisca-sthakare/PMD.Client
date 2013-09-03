@@ -7,6 +7,6 @@
     <li><a href="DashboardDescription.aspx?id=<%=dashboardID %>">Sources</a></li>
     <li><a href="EditDashboardUser.aspx?id=<%=dashboardID %>">User Details</a></li>
     <li><a href="DashboardItemTeams.aspx?id=<%=dashboardID %>">Team Details</a></li>
-    <li><a href="DashboardItemTeams.aspx?id=<%=dashboardID %>">Team Details</a></li>
+
   </ul>
 </asp:Content>
