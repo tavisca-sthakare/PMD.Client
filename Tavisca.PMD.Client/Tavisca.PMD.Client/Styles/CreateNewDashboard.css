@@ -1,0 +1,19 @@
+﻿body
+{
+}
+.FieldsetContainerdiv
+{
+    position: relative;
+    left: 30%;
+    width: 40%;
+    text-align: center;
+    background-image: url('/Images/Background.png');
+}
+.txt
+{
+    width: 149px;
+}
+.txtarea
+{
+    width: 200px;
+}
